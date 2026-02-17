@@ -15,4 +15,6 @@ All challenges are designed to be completed using **Google Colab**.
 
 Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
 
-For general organizational questions, please contact @nickpadd, @ga83wuw.
+For general organizational questions, please contact:
+- npapadopoulos@mail.ntua.gr
+- georgios.athanasiou.ntua@gmail.com
