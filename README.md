@@ -14,19 +14,19 @@ All challenges are designed to be completed using **Google Colab**.
 | 05 | Name | [ch05-name](https://github.com/WinterSchool2026/ch05-name) | [Said Ouala]() |
 | 06 | Name | [ch06-name](https://github.com/WinterSchool2026/ch06-name) | [Alexander Winkler]() |
 | 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan]() |
-| 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Tutor Name]() |
-| 09 | Name | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Tutor Name]() |
-| 10 | Name | [ch10-name](https://github.com/WinterSchool2026/ch10-name) | [Tutor Name]() |
-| 11 | Name | [ch11-name](https://github.com/WinterSchool2026/ch11-name) | [Tutor Name]() |
-| 12 | Name | [ch12-name](https://github.com/WinterSchool2026/ch12-name) | [Tutor Name]() |
-| 13 | Name | [ch13-name](https://github.com/WinterSchool2026/ch13-name) | [Tutor Name]() |
-| 14 | Name | [ch14-name](https://github.com/WinterSchool2026/ch14-name) | [Tutor Name]() |
-| 15 | Name | [ch15-name](https://github.com/WinterSchool2026/ch15-name) | [Tutor Name]() |
-| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Tutor Name]() |
-| 17 | Name | [ch17-name](https://github.com/WinterSchool2026/ch17-name) | [Tutor Name]() |
-| 18 | Name | [ch18-name](https://github.com/WinterSchool2026/ch18-name) | [Tutor Name]() |
-| 19 | Name | [ch19-name](https://github.com/WinterSchool2026/ch19-name) | [Tutor Name]() |
-| 20 | Name | [ch20-name](https://github.com/WinterSchool2026/ch20-name) | [Tutor Name]()
+| 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Sujan Koirala]() |
+| 09 | Name | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Marta Sapena]() |
+| 10 | Name | [ch10-name](https://github.com/WinterSchool2026/ch10-name) | [Emiliano Díaz Salas-Porras]() |
+| 11 | Name | [ch11-name](https://github.com/WinterSchool2026/ch11-name) | [Homer Durand]() |
+| 12 | Name | [ch12-name](https://github.com/WinterSchool2026/ch12-name) | [Mohanad Albughdadi]() |
+| 13 | Name | [ch13-name](https://github.com/WinterSchool2026/ch13-name) | [Shijie Jiang]() |
+| 14 | Name | [ch14-name](https://github.com/WinterSchool2026/ch14-name) | [Vitus Benson]() |
+| 15 | Name | [ch15-name](https://github.com/WinterSchool2026/ch15-name) | [Nikolaos-Ioannis Bountos]() |
+| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Angelos Zavros]() |
+| 17 | Name | [ch17-name](https://github.com/WinterSchool2026/ch17-name) | [Valsamis (Makis) Ntouskos]() |
+| 18 | Name | [ch18-name](https://github.com/WinterSchool2026/ch18-name) | [Vasileios Tsironis]() |
+| 19 | Name | [ch19-name](https://github.com/WinterSchool2026/ch19-name) | [Nathan Mankovich]() |
+| 20 | Name | [ch20-name](https://github.com/WinterSchool2026/ch20-name) | [Aishwarya Venkataramanan]()
 
 
 ---
