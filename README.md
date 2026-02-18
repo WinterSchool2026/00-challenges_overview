@@ -11,7 +11,7 @@ All challenges are designed to be completed using **Google Colab**.
 | 02 | ML-based downscaling of future climate scenarios | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov]() |
 | 03 | Using machine learning to assess ocean deoxygenation trends in space and time | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli]() |
 | 04 | Hybrid modelling of land-atmosphere fluxes | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Reda ElGhawi]() |
-| 05 | Name | [ch05-name](https://github.com/WinterSchool2026/ch05-name) | [Said Ouala]() |
+| 05 | Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models | [ch05-ai-esm-emulation-hybrid](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid) | [Said Ouala]() |
 | 06 | Name | [ch06-name](https://github.com/WinterSchool2026/ch06-name) | [Alexander Winkler]() |
 | 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan]() |
 | 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Sujan Koirala]() |
