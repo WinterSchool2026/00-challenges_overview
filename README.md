@@ -10,8 +10,7 @@ All challenges are designed to be completed using **Google Colab**.
 | 01 | SeasFire | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos]() |
 | 02 | ML-based downscaling of future climate scenarios | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov]() |
 | 03 | Using machine learning to assess ocean deoxygenation trends in space and time | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli]() |
-| 04 | Hybrid modelling of land-atmosphere fluxes | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli]() |
-| 04 | Name | [ch04-name](https://github.com/WinterSchool2026/ch04-name) | [Reda ElGhawi]() |
+| 04 | Hybrid modelling of land-atmosphere fluxes | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Reda ElGhawi]() |
 | 05 | Name | [ch05-name](https://github.com/WinterSchool2026/ch05-name) | [Said Ouala]() |
 | 06 | Name | [ch06-name](https://github.com/WinterSchool2026/ch06-name) | [Alexander Winkler]() |
 | 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan]() |
