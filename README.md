@@ -17,7 +17,7 @@ All challenges are designed to be completed using **Google Colab**.
 <table>
 <tr>
 <td width="180" valign="top">
-<img src="assets/nikolas.jpg" width="160">
+<img src="assets/nikolas_papadopoulos.jpg" width="160">
 </td>
 <td valign="top">
 
@@ -35,7 +35,7 @@ Nikolas Papadopoulos is a PhD candidate on AI for extreme weather events at the 
 <table>
 <tr>
 <td width="180" valign="top">
-<img src="assets/mikhail.jpg" width="160">
+<img src="assets/mikhail_ivanov.jpg" width="160">
 </td>
 <td valign="top">
 
@@ -53,7 +53,7 @@ Mikhail Ivanov is an Expert in Machine Learning for Climate Applications at the 
 <table>
 <tr>
 <td width="180" valign="top">
-<img src="assets/arianna.jpg" width="160">
+<img src="assets/arianna_olivelli.jpg" width="160">
 </td>
 <td valign="top">
 
