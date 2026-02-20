@@ -94,7 +94,13 @@ Arianna Olivelli is a chemical oceanographer and Postdoctoral Researcher in the 
 ### Reda ElGhawi  
 **Challenge 04 – Hybrid modelling of land-atmosphere fluxes**
 
-Bio coming soon.
+Reda El Ghawi is a post-doc working on land–atmosphere interactions within the ICON-ESM framework,
+focusing on improving the representation of water and carbon cycle processes from local to
+global scales. Her work covers stomatal conductance, assimilation regulators, transpiration,
+GPP, vegetation dynamics, carbon allocation, disturbances, and forest ageing and regrowth.
+She uses a combination of perturbed parameter ensembles, hybrid modelling approaches, and
+machine-learning parametrizations to diagnose structural model biases and enhance key
+land-surface processes, particularly under changing environmental conditions.
 
 </td>
 </tr>
@@ -110,9 +116,14 @@ Bio coming soon.
 <td valign="center">
 
 ### Said Ouala  
-**Challenge 05**
+**Challenge 5 - Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models**
 
-Bio coming soon.
+Said Ouala is a Tenure-Track Professor (Chaire Professeur Junior) at IMT Atlantique
+and a research scientist at CNRS (UMR-6285) and the INRIA Odyssey team. Hresearch
+focuses on combining data science, artificial intelligence, and
+computational methods to advance Earth system modeling, with a focus on
+developing new observational products, designing data assimilation techniques, and
+building predictive models that integrate physical knowledge with machine learning.
 
 </td>
 </tr>
@@ -130,7 +141,9 @@ Bio coming soon.
 ### Alexander Winkler  
 **Challenge 06**
 
-Bio coming soon.
+Alex is an Earth system scientist at the Max Planck Institute for Biogeochemistry and a core member of the ELLIS Unit Jena. His research focuses on the interactions between the atmosphere and biosphere, particularly their role in climate feedbacks. After earning his PhD in Earth system modeling at the Max-Planck-Institute for Meteorology and the University of Hamburg in 2019, he worked within the CLICCS Cluster of Excellence. Since 2020, he has been part of the ERC Synergy Grant “USMILE” at the Max Planck Institute for Biogeochemistry, where he leads the “Atmosphere-Biosphere Coupling, Climate, and Causality” Research Group.
+
+Alex uses models—from simple frameworks to advanced Earth system models—and machine learning to explore CO2, water, and energy exchanges between land and atmosphere. His work emphasizes causal inference and hybrid models, combining data-driven and mechanistic approaches to advance process understanding.
 
 </td>
 </tr>
@@ -148,7 +161,8 @@ Bio coming soon.
 ### Fangfei "Fei" Lan  
 **Challenge 07**
 
-Bio coming soon.
+Fangfei (Fei) Lan is a postdoctoral researcher at the University of Lausanne, working with Dr. Tom Beucler on AI for climate science as part of AI4PEX. Her research focuses on evaluating machine learning-based hybrid Earth system models, and exploring novel methodologies, such as topological data analysis (TDA), to advance climate modeling and scientific discoveries. She earned her Ph.D. in Computing in 2024 from the Scientific Computing and Imaging (SCI) Institute at the University of Utah, advised by Dr. Bei Wang. Her doctoral work centered on TDA and scientific visualization, applying algebraic and computational topology to the analysis and visualization of high-dimensional scientific data. During her Ph.D., she was a visiting researcher in the immersive visualization group at Linköping University in Sweden, collaborating with Dr. Alexander Bock and Dr. Anders Ynnerman on visualization for astrophysics. She holds a Bachelor of Science in Mathematics and Computational Science from American University, where she was introduced to topology by applied mathematician Dr. Michael Robinson, whose mentorship sparked her path into TDA research.
+Website: https://fei0324.github.io/
 
 </td>
 </tr>
@@ -184,7 +198,11 @@ Bio coming soon.
 ### Marta Sapena  
 **Challenge 09**
 
-Bio coming soon.
+Marta Sapena holds a PhD in Geomatics Engineering. Specializing in remote sensing for urban
+applications, she integrates spatial analysis with advanced statistical methods. Her interests
+range from assessing disaster risk exposure, developing susceptibility maps, and optimizing
+population disaggregation techniques, to monitoring urban dynamics. Currently, she focuses on predicting
+the impacts of extreme weather events such as droughts and heatwaves.
 
 </td>
 </tr>
@@ -202,7 +220,7 @@ Bio coming soon.
 ### Emiliano Díaz Salas-Porras  
 **Challenge 10**
 
-Bio coming soon.
+Emiliano is an assistant professor at the Department of Statistics and Operations Research at the University of Valencia. His interests lie in causal discovery, causal inference, machine learning, probability, and statistics. More specifically, his work focuses on integrating causal and probabilistic reasoning with statistical and machine learning models to advance Earth System science. Methodologically, he has worked with and developed causal discovery approaches, including asymmetry-based bivariate causal discovery, invariant causal prediction, and convergent cross mapping.
 
 </td>
 </tr>
@@ -220,7 +238,7 @@ Bio coming soon.
 ### Homer Durand  
 **Challenge 11**
 
-Bio coming soon.
+Homer Durand is a PhD student in remote sensing at the University of València with a background in computer science and applied mathematics. His research focuses on developing and understanding Detection and Attribution (D&A) of Climate Change methods in a causal inference framework. More broadly, he is interested in learning theory and how to combine different sources of data and knowledge to make predictions and understand complex phenomena. His academic interests also span causal inference (and its relationship with invariance and robustness), Bayesian inference, kernel methods and climate change D&A.
 
 </td>
 </tr>
@@ -238,7 +256,7 @@ Bio coming soon.
 ### Mohanad Albughdadi  
 **Challenge 12**
 
-Bio coming soon.
+Mohanad Albughdadi (https://albughdadim.github.io/) holds a PhD in Applied Mathematics (Toulouse, 2016) and is a Machine Learning Scientist at the European Centre for Medium-Range Weather Forecasts (ECMWF). He has over a decade of experience applying machine learning and cloud-based technologies to satellite imagery for environmental monitoring, agriculture, and land-management applications. His work spans methodological innovation, large-scale system development, and contributions to training, supervision, and scientific publications.
 
 </td>
 </tr>
@@ -256,7 +274,7 @@ Bio coming soon.
 ### Shijie Jiang  
 **Challenge 13**
 
-Bio coming soon.
+Shijie Jiang is a Project Group Leader in Machine Learning for Hydrological and Earth Systems. His research focuses on coupled water, energy, and carbon dynamics in hydrological, ecological, and climate systems, with an emphasis on integrating data and domain knowledge with hybrid and explainable machine learning.  
 
 </td>
 </tr>
