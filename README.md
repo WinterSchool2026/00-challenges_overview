@@ -7,27 +7,26 @@ All challenges are designed to be completed using **Google Colab**.
 
 | # | Challenge Title | Repository | Tutors |
 |---|-----------------|------------|--------|
-| 01 | SeasFire: Seasonal Wildfire danger Forecasting | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos]() |
-| 02 | ML-based downscaling of future climate scenarios | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov]() |
-| 03 | Using machine learning to assess ocean deoxygenation trends in space and time | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli]() |
-| 04 | Hybrid modelling of land-atmosphere fluxes | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Reda ElGhawi]() |
-| 05 | Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models | [ch05-ai-esm-emulation-hybrid](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid) | [Said Ouala]() |
-| 06 | Can vegetation buffer meteorological extremes events? | [ch06-vegetation-buffering-extremes](https://github.com/WinterSchool2026/ch06-vegetation-buffering-extremes) | [Alexander Winkler]() |
-| 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan]() |
-| 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Sujan Koirala]() |
-| 09 | Name | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Marta Sapena]() |
-| 10 | Name | [ch10-name](https://github.com/WinterSchool2026/ch10-name) | [Emiliano Díaz Salas-Porras]() |
-| 11 | Name | [ch11-name](https://github.com/WinterSchool2026/ch11-name) | [Homer Durand]() |
-| 12 | Name | [ch12-name](https://github.com/WinterSchool2026/ch12-name) | [Mohanad Albughdadi]() |
-| 13 | Name | [ch13-name](https://github.com/WinterSchool2026/ch13-name) | [Shijie Jiang]() |
-| 14 | Name | [ch14-name](https://github.com/WinterSchool2026/ch14-name) | [Vitus Benson]() |
-| 15 | Name | [ch15-name](https://github.com/WinterSchool2026/ch15-name) | [Nikolaos-Ioannis Bountos]() |
-| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Angelos Zavras]() |
-| 17 | Name | [ch17-name](https://github.com/WinterSchool2026/ch17-name) | [Valsamis (Makis) Ntouskos]() |
-| 18 | Name | [ch18-name](https://github.com/WinterSchool2026/ch18-name) | [Vasileios Tsironis]() |
-| 19 | Name | [ch19-name](https://github.com/WinterSchool2026/ch19-name) | [Nathan Mankovich]() |
-| 20 | Name | [ch20-name](https://github.com/WinterSchool2026/ch20-name) | [Aishwarya Venkataramanan]()
-
+| 01 | SeasFire: Seasonal Wildfire danger Forecasting | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos](#nikolas-papadopoulos) |
+| 02 | ML-based downscaling of future climate scenarios | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov](#mikhail-ivanov) |
+| 03 | Using machine learning to assess ocean deoxygenation trends in space and time | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli](#arianna-olivelli) |
+| 04 | Hybrid modelling of land-atmosphere fluxes | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Reda ElGhawi](#reda-elghawi) |
+| 05 | Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models | [ch05-ai-esm-emulation-hybrid](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid) | [Said Ouala](#said-ouala) |
+| 06 | Can vegetation buffer meteorological extremes events? | [ch06-vegetation-buffering-extremes](https://github.com/WinterSchool2026/ch06-vegetation-buffering-extremes) | [Alexander Winkler](#alexander-winkler) |
+| 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan](#fangfei-fei-lan) |
+| 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Sujan Koirala](#sujan-koirala) |
+| 09 | Name | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Marta Sapena](#marta-sapena) |
+| 10 | Name | [ch10-name](https://github.com/WinterSchool2026/ch10-name) | [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras) |
+| 11 | Name | [ch11-name](https://github.com/WinterSchool2026/ch11-name) | [Homer Durand](#homer-durand) |
+| 12 | Name | [ch12-name](https://github.com/WinterSchool2026/ch12-name) | [Mohanad Albughdadi](#mohanad-albughdadi) |
+| 13 | Name | [ch13-name](https://github.com/WinterSchool2026/ch13-name) | [Shijie Jiang](#shijie-jiang) |
+| 14 | Name | [ch14-name](https://github.com/WinterSchool2026/ch14-name) | [Vitus Benson](#vitus-benson) |
+| 15 | Name | [ch15-name](https://github.com/WinterSchool2026/ch15-name) | [Nikolaos-Ioannis Bountos](#nikolaos-ioannis-bountos) |
+| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Angelos Zavras](#angelos-zavras) |
+| 17 | Name | [ch17-name](https://github.com/WinterSchool2026/ch17-name) | [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) |
+| 18 | Name | [ch18-name](https://github.com/WinterSchool2026/ch18-name) | [Vasileios Tsironis](#vasileios-tsironis) |
+| 19 | Name | [ch19-name](https://github.com/WinterSchool2026/ch19-name) | [Nathan Mankovich](#nathan-mankovich) |
+| 20 | Name | [ch20-name](https://github.com/WinterSchool2026/ch20-name) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
 
 ---
 ## Meet the tutors
@@ -292,7 +291,13 @@ Shijie Jiang is a Project Group Leader in Machine Learning for Hydrological and 
 ### Vitus Benson  
 **Challenge 14**
 
-Bio coming soon.
+Vitus is an ELLIS PhD Student at the Max Planck Institute for Biogeochemistry and ETH
+Zürich, as part of the EarthNet team (www.earthnet.tech). His work focuses on the
+application of large deep neural networks to data of the Earth system, especially the
+terrestrial biosphere. He coordinates the MPI BGC contribution to the WeatherGenerator
+Horizon Europe project, co-leads the community effort AI4Carbon, is a RISKKAN working
+group chair on AI for complex climate risk mitigation and is a frequent speaker at Red Cross
+dialogue platforms on Anticipatory Action.
 
 </td>
 </tr>
@@ -310,7 +315,20 @@ Bio coming soon.
 ### Nikolaos-Ioannis Bountos  
 **Challenge 15**
 
-Bio coming soon.
+Dr. Bountos Nikolaos Ioannis was born in 1993 in Corfu, Greece. He holds a PhD in
+Computer Science completed jointly between Orion Lab of the National Technical University
+of Athens and Harokopio University of Athens. Additionally he holds a Master of Science
+from the Technical University of Munich in Data Engineering and Analytics, and a Bachelor
+of Science in Computer Science from the Aristotle University of Thessaloniki. His research
+interests include deep learning, computer vision and Earth observation.
+He has authored publications in top-tier machine learning conferences such as NeurIPS,
+ICCV, and AAAI, as well as leading Earth Observation journals including IEEE Transactions
+on Geoscience and Remote Sensing and IEEE Geoscience and Remote Sensing Letters. He
+has extensive experience collaborating with leading research institutions, having completed
+research stays at organizations such as Mila – Quebec AI Institute and the AI4EO Future
+Lab of the Technical University of Munich. Part of his work was recognized among the Top
+100 AI Projects of 2022–23 by UNESCO’s International Research Centre on Artificial
+Intelligence (IRCAI).
 
 </td>
 </tr>
@@ -328,7 +346,18 @@ Bio coming soon.
 ### Angelos Zavras  
 **Challenge 16**
 
-Bio coming soon.
+Angelos Zavras is currently enrolled as a PhD candidate at the Harokopio University of
+Athens. He is also affiliated with the OrionLab research group, which is associated with the
+Remote Sensing Lab of the National Technical University of Athens (NTUA) and the National
+Observatory of Athens (NOA). He holds a BSc in Informatics and Telematics from the
+Harokopio University of Athens and a MSc from the joint master’s program in Data Science
+from the Institute of Informatics & Telecommunications of the National Centre for Scientific
+Research Demokritos and the Department of Informatics & Telecommunications of the
+University of Peloponnese. In the past he was involved for several years in the European
+Space Agency’s (ESA) Copernicus programme, initially as a DevOps Engineer and later as
+the Lead Copernicus Sentinels Data Access Operations Engineer of the Greek node of
+European Space Agency Hubs at the Institute for Astronomy, Astrophysics, Space
+Applications and Remote Sensing (IAASARS) of the National Observatory of Athens.
 
 </td>
 </tr>
@@ -346,7 +375,7 @@ Bio coming soon.
 ### Valsamis (Makis) Ntouskos  
 **Challenge 17**
 
-Bio coming soon.
+Valsamis (Makis) Ntouskos received the Engineering Diploma degree from the School of Rural and Surveying Engineering, National Technical University of Athens (NTUA), Greece, the B.Sc. degree in electronics engineering and the M.S.E. degree in artificial intelligence and robotics from Sapienza University of Rome, Sapienza, Italy, in 2010 and 2012, respectively, and the Ph.D. degree (Hons.) in computer engineering from Sapienza University, in 2016, working on ‘‘Inverse Problems Theory in Shape and Action Modeling.’’ From 2017 to 2020, he was a Researcher with the Department of Computer, Control, and Management Engineering, Sapienza, and a Research Fellow with the Remote Sensing Laboratory, NTUA, in 2020. Currently, he is an Associate Professor with Universitas Mercatorum, Italy. He has several publications in top-tier international conferences and journals in the fields of machine learning and computer vision. He serves as a program committee member and a reviewer for top-rank international conferences and journals in his field.
 
 </td>
 </tr>
@@ -364,7 +393,7 @@ Bio coming soon.
 ### Vasileios Tsironis  
 **Challenge 18**
 
-Bio coming soon.
+Vasileios Tsironis obtained his five-year Diploma (Intergrated Master) of Rural, Surveying and Geoinformatics Engineering in 2015 and his Postgraduate Master’s Diploma in ‘Mathematical modelling in modern technologies and financial engineering’ in 2017, from the National Technical University of Athens.Since October 2018 he has been a PhD candidate at the same university with a dissertation entitled “Deep Learning techniques for Big EO Data analytics”. Through his academic career and participation in several research and industrial projects, he has developed an extensive expertise in Earth Observation, Big Data analytics and Deep Learning applications with a focus on AI-based solutions development for EO projects, multi-modal and multi-scale EO data modelling, AI-powered EO insights and custom EO-based mapping products derivation. Also, through his career in the private sector, he has developed expert skills in programming, deep learning frameworks exploitation and CI/CD practices for MLOps in a containerized and distributed environment. 
 
 </td>
 </tr>
@@ -382,7 +411,7 @@ Bio coming soon.
 ### Nathan Mankovich  
 **Challenge 19**
 
-Bio coming soon.
+Nathan (Nate) Mankovich has a PhD in mathematics and is a Postdoctoral Researcher in the Image Processing Laboratory at the University of Valencia under Gustau Camps-Valls. His current research is on dynamic mode decomposition, flag manifolds for modern data analysis, and dimensionality reduction. He also works with climate models, developing data-driven methods for understanding climate variability and the forced response.
 
 </td>
 </tr>
