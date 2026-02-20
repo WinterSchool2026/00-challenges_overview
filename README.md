@@ -38,7 +38,7 @@ All challenges are designed to be completed using **Google Colab**.
 <td valign="center">
 
 ### Nikolas Papadopoulos  
-**Challenge 01 – SeasFire**
+**Challenge 01 – SeasFire: Deep Learning for Seasonal Wildfire danger Forecasting**
 
 Nikolas Papadopoulos is a PhD candidate on AI for extreme weather events at the National Technical University of Athens (NTUA). Combining his physics background with data-driven methods, his research bridges Earth system science and machine learning, with a focus on high socio-environmental impact problems. His past work includes deep learning methods for volcanic activity monitoring and subseasonal-to-seasonal wildfire danger forecasting.
 
@@ -139,7 +139,7 @@ building predictive models that integrate physical knowledge with machine learni
 <td valign="center">
 
 ### Alexander Winkler  
-**Challenge 06**
+**Challenge 06 - Can vegetation buffer meteorological extremes events?**
 
 Alex is an Earth system scientist at the Max Planck Institute for Biogeochemistry and a core member of the ELLIS Unit Jena. His research focuses on the interactions between the atmosphere and biosphere, particularly their role in climate feedbacks. After earning his PhD in Earth system modeling at the Max-Planck-Institute for Meteorology and the University of Hamburg in 2019, he worked within the CLICCS Cluster of Excellence. Since 2020, he has been part of the ERC Synergy Grant “USMILE” at the Max Planck Institute for Biogeochemistry, where he leads the “Atmosphere-Biosphere Coupling, Climate, and Causality” Research Group.
 
@@ -159,7 +159,7 @@ Alex uses models—from simple frameworks to advanced Earth system models—and 
 <td valign="center">
 
 ### Fangfei "Fei" Lan  
-**Challenge 07**
+**Challenge 07 - Seeing the spread: Visualizing spatiotemporal uncertainty in ensemble data**
 
 Fangfei (Fei) Lan is a postdoctoral researcher at the University of Lausanne, working with Dr. Tom Beucler on AI for climate science as part of AI4PEX. Her research focuses on evaluating machine learning-based hybrid Earth system models, and exploring novel methodologies, such as topological data analysis (TDA), to advance climate modeling and scientific discoveries. She earned her Ph.D. in Computing in 2024 from the Scientific Computing and Imaging (SCI) Institute at the University of Utah, advised by Dr. Bei Wang. Her doctoral work centered on TDA and scientific visualization, applying algebraic and computational topology to the analysis and visualization of high-dimensional scientific data. During her Ph.D., she was a visiting researcher in the immersive visualization group at Linköping University in Sweden, collaborating with Dr. Alexander Bock and Dr. Anders Ynnerman on visualization for astrophysics. She holds a Bachelor of Science in Mathematics and Computational Science from American University, where she was introduced to topology by applied mathematician Dr. Michael Robinson, whose mentorship sparked her path into TDA research.
 Website: https://fei0324.github.io/
@@ -178,7 +178,7 @@ Website: https://fei0324.github.io/
 <td valign="center">
 
 ### Sujan Koirala  
-**Challenge 08**
+**Challenge 08 - Hybrid modelling for parameters of vegetation productivity in land models**
 
 Bio coming soon.
 
@@ -196,7 +196,7 @@ Bio coming soon.
 <td valign="center">
 
 ### Marta Sapena  
-**Challenge 09**
+**Challenge 09 - Causal Inference for Extreme Events**
 
 Marta Sapena holds a PhD in Geomatics Engineering. Specializing in remote sensing for urban
 applications, she integrates spatial analysis with advanced statistical methods. Her interests
@@ -218,7 +218,7 @@ the impacts of extreme weather events such as droughts and heatwaves.
 <td valign="center">
 
 ### Emiliano Díaz Salas-Porras  
-**Challenge 10**
+**Challenge 10 - Generating 3D video of hurricanes**
 
 Emiliano is an assistant professor at the Department of Statistics and Operations Research at the University of Valencia. His interests lie in causal discovery, causal inference, machine learning, probability, and statistics. More specifically, his work focuses on integrating causal and probabilistic reasoning with statistical and machine learning models to advance Earth System science. Methodologically, he has worked with and developed causal discovery approaches, including asymmetry-based bivariate causal discovery, invariant causal prediction, and convergent cross mapping.
 
@@ -236,7 +236,7 @@ Emiliano is an assistant professor at the Department of Statistics and Operation
 <td valign="center">
 
 ### Homer Durand  
-**Challenge 11**
+**Challenge 11 - Machine Learning for the Attribution of Extreme Events**
 
 Homer Durand is a PhD student in remote sensing at the University of València with a background in computer science and applied mathematics. His research focuses on developing and understanding Detection and Attribution (D&A) of Climate Change methods in a causal inference framework. More broadly, he is interested in learning theory and how to combine different sources of data and knowledge to make predictions and understand complex phenomena. His academic interests also span causal inference (and its relationship with invariance and robustness), Bayesian inference, kernel methods and climate change D&A.
 
@@ -254,7 +254,7 @@ Homer Durand is a PhD student in remote sensing at the University of València w
 <td valign="center">
 
 ### Mohanad Albughdadi  
-**Challenge 12**
+**Challenge 12 - Lightweight Vision-Language Mixture-of-Experts for Interpretable Multispectral Satellite Representation Learning**
 
 Mohanad Albughdadi (https://albughdadim.github.io/) holds a PhD in Applied Mathematics (Toulouse, 2016) and is a Machine Learning Scientist at the European Centre for Medium-Range Weather Forecasts (ECMWF). He has over a decade of experience applying machine learning and cloud-based technologies to satellite imagery for environmental monitoring, agriculture, and land-management applications. His work spans methodological innovation, large-scale system development, and contributions to training, supervision, and scientific publications.
 
@@ -272,7 +272,7 @@ Mohanad Albughdadi (https://albughdadim.github.io/) holds a PhD in Applied Mathe
 <td valign="center">
 
 ### Shijie Jiang  
-**Challenge 13**
+**Challenge 13 - Identifiability in hybrid AI models for understanding flood extremes**
 
 Shijie Jiang is a Project Group Leader in Machine Learning for Hydrological and Earth Systems. His research focuses on coupled water, energy, and carbon dynamics in hydrological, ecological, and climate systems, with an emphasis on integrating data and domain knowledge with hybrid and explainable machine learning.  
 
@@ -290,7 +290,7 @@ Shijie Jiang is a Project Group Leader in Machine Learning for Hydrological and 
 <td valign="center">
 
 ### Vitus Benson  
-**Challenge 14**
+**Challenge 14 - Multi-modal learning for Impact-based forecasting of Droughts in Eastern Africa**
 
 Vitus is an ELLIS PhD Student at the Max Planck Institute for Biogeochemistry and ETH
 Zürich, as part of the EarthNet team (www.earthnet.tech). His work focuses on the
@@ -314,7 +314,7 @@ dialogue platforms on Anticipatory Action.
 <td valign="center">
 
 ### Nikolaos-Ioannis Bountos  
-**Challenge 15**
+**Challenge 15 - Generative models for Interferometric Synthetic Aperture Radar**
 
 Dr. Bountos Nikolaos Ioannis was born in 1993 in Corfu, Greece. He holds a PhD in
 Computer Science completed jointly between Orion Lab of the National Technical University
@@ -345,7 +345,7 @@ Intelligence (IRCAI).
 <td valign="center">
 
 ### Angelos Zavras  
-**Challenge 16**
+**Challenge 16 - Vision-Language Models for EO: Connect imagery and text to enhance EO data interpretation**
 
 Angelos Zavras is currently enrolled as a PhD candidate at the Harokopio University of
 Athens. He is also affiliated with the OrionLab research group, which is associated with the
@@ -374,7 +374,7 @@ Applications and Remote Sensing (IAASARS) of the National Observatory of Athens.
 <td valign="center">
 
 ### Valsamis (Makis) Ntouskos  
-**Challenge 17**
+**Challenge 17 - Change retrieval in EO data using Vision Language Models (VLMs)**
 
 Valsamis (Makis) Ntouskos received the Engineering Diploma degree from the School of Rural and Surveying Engineering, National Technical University of Athens (NTUA), Greece, the B.Sc. degree in electronics engineering and the M.S.E. degree in artificial intelligence and robotics from Sapienza University of Rome, Sapienza, Italy, in 2010 and 2012, respectively, and the Ph.D. degree (Hons.) in computer engineering from Sapienza University, in 2016, working on ‘‘Inverse Problems Theory in Shape and Action Modeling.’’ From 2017 to 2020, he was a Researcher with the Department of Computer, Control, and Management Engineering, Sapienza, and a Research Fellow with the Remote Sensing Laboratory, NTUA, in 2020. Currently, he is an Associate Professor with Universitas Mercatorum, Italy. He has several publications in top-tier international conferences and journals in the fields of machine learning and computer vision. He serves as a program committee member and a reviewer for top-rank international conferences and journals in his field.
 
@@ -392,7 +392,7 @@ Valsamis (Makis) Ntouskos received the Engineering Diploma degree from the Schoo
 <td valign="center">
 
 ### Vasileios Tsironis  
-**Challenge 18**
+**Challenge 18 - The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models**
 
 Vasileios Tsironis obtained his five-year Diploma (Intergrated Master) of Rural, Surveying and Geoinformatics Engineering in 2015 and his Postgraduate Master’s Diploma in ‘Mathematical modelling in modern technologies and financial engineering’ in 2017, from the National Technical University of Athens.Since October 2018 he has been a PhD candidate at the same university with a dissertation entitled “Deep Learning techniques for Big EO Data analytics”. Through his academic career and participation in several research and industrial projects, he has developed an extensive expertise in Earth Observation, Big Data analytics and Deep Learning applications with a focus on AI-based solutions development for EO projects, multi-modal and multi-scale EO data modelling, AI-powered EO insights and custom EO-based mapping products derivation. Also, through his career in the private sector, he has developed expert skills in programming, deep learning frameworks exploitation and CI/CD practices for MLOps in a containerized and distributed environment. 
 
@@ -410,7 +410,7 @@ Vasileios Tsironis obtained his five-year Diploma (Intergrated Master) of Rur
 <td valign="center">
 
 ### Nathan Mankovich  
-**Challenge 19**
+**Challenge 19 - Mini Climate Emulation**
 
 Nathan (Nate) Mankovich has a PhD in mathematics and is a Postdoctoral Researcher in the Image Processing Laboratory at the University of Valencia under Gustau Camps-Valls. His current research is on dynamic mode decomposition, flag manifolds for modern data analysis, and dimensionality reduction. He also works with climate models, developing data-driven methods for understanding climate variability and the forced response.
 
@@ -428,7 +428,7 @@ Nathan (Nate) Mankovich has a PhD in mathematics and is a Postdoctoral Researche
 <td valign="center">
 
 ### Aishwarya Venkataramanan  
-**Challenge 20**
+**Challenge 20 - Deep Probabilistic Forecasting of Global Temperature Fields**
 
 Bio coming soon.
 
