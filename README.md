@@ -10,11 +10,11 @@ All challenges are designed to be completed using **Google Colab**.
 | CH-01 | SeasFire: Deep Learning for Seasonal Wildfire danger Forecasting | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos](#nikolas-papadopoulos) |
 | CH-02 | ML-based downscaling of future climate scenarios | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov](#mikhail-ivanov) |
 | CH-03 | Using machine learning to assess ocean deoxygenation trends in space and time | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli](#arianna-olivelli) |
-| CH-04 | Hybrid modelling of land-atmosphere fluxes | [ch04-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch04-hybrid-land-atmosphere-fluxes) | [Reda ElGhawi](#reda-elghawi) |
+| CH-04 | Hybrid modelling of land-atmosphere fluxes | [ch04-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch04-hybrid-land-atmosphere-fluxes) | [Reda ElGhawi](#reda-elghawi) &<br>[Sujan Koirala](#sujan-koirala) |
 | CH-05 | Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models | [ch05-ai-esm-emulation-hybrid](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid) | [Said Ouala](#said-ouala) |
 | CH-06 | Can vegetation buffer meteorological extremes events? | [ch06-vegetation-buffering-extremes](https://github.com/WinterSchool2026/ch06-vegetation-buffering-extremes) | [Alexander Winkler](#alexander-winkler) |
 | CH-07 | Seeing the spread: Visualizing spatiotemporal uncertainty in ensemble data | [ch07-spatiotemporal-uncertainty-ensembles](https://github.com/WinterSchool2026/ch07-spatiotemporal-uncertainty-ensembles) | [Fangfei "Fei" Lan](#fangfei-fei-lan) |
-| CH-08 | Hybrid modelling for parameters of vegetation productivity in land models | [ch08-hybrid-vegetation-productivity](https://github.com/WinterSchool2026/ch08-hybrid-vegetation-productivity) | [Sujan Koirala](#sujan-koirala) |
+| CH-08 | Deep Probabilistic Forecasting of Global Temperature Fields | [ch08-deep-probabilistic-temperature](https://github.com/WinterSchool2026/ch08-deep-probabilistic-temperature) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
 | CH-09 | Causal Inference for Extreme Events | [ch09-causal-inference-extremes](https://github.com/WinterSchool2026/ch09-causal-inference-extremes) | [Marta Sapena](#marta-sapena) |
 | CH-10 | Generating 3D video of hurricanes | [ch10-3d-hurricane-generation](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation) | [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras) |
 | CH-11 | Machine Learning for the Attribution of Extreme Events | [ch11-ml-attribution-extremes](https://github.com/WinterSchool2026/ch11-ml-attribution-extremes) | [Homer Durand](#homer-durand) |
@@ -26,7 +26,6 @@ All challenges are designed to be completed using **Google Colab**.
 | CH-17 | Change retrieval in EO data using Vision Language Models (VLMs) | [ch17-vlm-change-retrieval](https://github.com/WinterSchool2026/ch17-vlm-change-retrieval) | [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) |
 | CH-18 | The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models | [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch18-multimodal-ard-factory) | [Vasileios Tsironis](#vasileios-tsironis) |
 | CH-19 | Mini Climate Emulation | [ch19-mini-climate-emulation](https://github.com/WinterSchool2026/ch19-mini-climate-emulation) | [Nathan Mankovich](#nathan-mankovich) |
-| CH-20 | Deep Probabilistic Forecasting of Global Temperature Fields | [ch20-deep-probabilistic-temperature](https://github.com/WinterSchool2026/ch20-deep-probabilistic-temperature) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
 
 ## Participant/Tutor Support
 Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
@@ -53,14 +52,14 @@ Georgios Athanasiou is a postdoctoral researcher at the Remote Sensing Lab of NT
 </tr>
 </table>
 
+---
+
 <table>
 <tr>
 <td width="180" valign="center">
 <img src="assets/nikolas_papadopoulos.jpg" width="160">
 </td>
 <td valign="center">
-
----
 
 ### Nikolas Papadopoulos  
 **Challenge 01 – SeasFire: Deep Learning for Seasonal Wildfire danger Forecasting**
@@ -136,9 +135,28 @@ land-surface processes, particularly under changing environmental conditions.
 <table>
 <tr>
 <td width="180" valign="center">
+<img src="assets/sujan_koirala.jpg" width="160">
+</td>
+<td valign="center">
+
+### Sujan Koirala  
+**Challenge 04 – Hybrid modelling of land-atmosphere fluxes**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
 <img src="assets/said_ouala.jpg" width="160">
 </td>
 <td valign="center">
+
 
 ### Said Ouala  
 **Challenge 5 - Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models**
@@ -198,12 +216,12 @@ Website: https://fei0324.github.io/
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/sujan_koirala.jpg" width="160">
+<img src="assets/aishwarya_venkataramanan.jpg" width="160">
 </td>
 <td valign="center">
 
-### Sujan Koirala  
-**Challenge 08 - Hybrid modelling for parameters of vegetation productivity in land models**
+### Aishwarya Venkataramanan  
+**Challenge 08 - Deep Probabilistic Forecasting of Global Temperature Fields**
 
 Bio coming soon.
 
@@ -434,24 +452,6 @@ Vasileios Tsironis obtained his five-year Diploma (Intergrated Master) of Rur
 **Challenge 19 - Mini Climate Emulation**
 
 Nathan (Nate) Mankovich has a PhD in mathematics and is a Postdoctoral Researcher in the Image Processing Laboratory at the University of Valencia under Gustau Camps-Valls. His current research is on dynamic mode decomposition, flag manifolds for modern data analysis, and dimensionality reduction. He also works with climate models, developing data-driven methods for understanding climate variability and the forced response.
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="180" valign="center">
-<img src="assets/aishwarya_venkataramanan.jpg" width="160">
-</td>
-<td valign="center">
-
-### Aishwarya Venkataramanan  
-**Challenge 20 - Deep Probabilistic Forecasting of Global Temperature Fields**
-
-Bio coming soon.
 
 </td>
 </tr>
