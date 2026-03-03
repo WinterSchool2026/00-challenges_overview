@@ -25,6 +25,7 @@ All challenges are designed to be completed using **Google Colab**.
 | CH-16 | [Vision-Language Models for EO: Connect imagery and text to enhance EO data interpretation](#challenge-16) | [ch16-vlm-earth-observation](https://github.com/WinterSchool2026/ch16-vlm-earth-observation) | [Angelos Zavras](#angelos-zavras) |
 | CH-17 | [Change retrieval in EO data using Vision Language Models (VLMs)](#challenge-17) | [ch17-vlm-change-retrieval](https://github.com/WinterSchool2026/ch17-vlm-change-retrieval) | [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) |
 | CH-18 | [The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models](#challenge-18) | [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch18-multimodal-ard-factory) | [Vasileios Tsironis](#vasileios-tsironis) |
+| CH-19 | [Learning global parameterizations of ecosystem processes using hybrid modelling](#challenge-19) | [ch19-global-ecosystem-hybrid-parameterization](https://github.com/WinterSchool2026/ch19-global-ecosystem-hybrid-parameterization) | [Xu Shan](#xu-shan) |
 
 ## Participant/Tutor Support
 Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
@@ -271,6 +272,17 @@ Repository: [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch
 
 **Overview:**
 This challenge tackles the "Data-Centric AI" bottleneck in Earth Observation: transforming heterogeneous satellite streams into Foundation-Model-ready data cubes. Participants will design an end-to-end pipeline to harmonize Sentinel-1 (SAR) and Sentinel-2/Landsat-9 (Optical) data. The work involves navigating physical corrections (RTC, atmospheric/spectral alignment) and solving dense co-registration puzzles using advanced methods like optical flow (e.g., GeFolki). Finally, groups will "prove" the quality of their ARD by analysing its impact on the embedding space of an EO Foundation Model, investigating how data-engineering choices directly influence AI reasoning for climate and hazard applications.
+
+
+### CH-19 – Learning global parameterizations of ecosystem processes using hybrid modelling
+
+<a id="challenge-18"></a>
+
+Tutor(s): [Xu Shan](#xu-shan) </br>
+Repository: [ch19-global-ecosystem-hybrid-parameterization](https://github.com/WinterSchool2026/ch19-global-ecosystem-hybrid-parameterization)
+
+**Overview:**
+Land carbon and water fluxes shape the feedback between terrestrial ecosystems and climate, yet traditional land models remain hampered by structural error and equifinality. Hybrid models—embedding machine learning (ML) modules inside mechanistic frameworks—address several of these gaps by combining physical consistency with data driven flexibility. So far, pioneering work linking process knowledge and ML has already demonstrated superior realism across scales, while underlining the need for richer observations to resolve coupled C–H₂O dynamics. This is demonstrated by the limitation in learning the spatial and temporal controls of parameters that modulate the responses of ecosystems to weather and climate variability.The challenge lies in the need for intensive and long-term observations that underpin robust and comprehensive representations of ecosystem functioning. Although hundreds of locations with such observations exist worldwide, we still observe significant limitations in parameter generalization, consequently limiting our ability to predict ecosystem function. The challenge here is to overcome the previous generalizability in predicting carbon and water fluxes using a hybrid modelling approach. Based on a global open dataset and the SINDBAD hybrid modelling framework, the project will be open to a wide range of approaches towards generalization, from different ML architectures to the ingestion of foundation models.
 
 ## Meet the tutors
 
@@ -670,6 +682,24 @@ Valsamis (Makis) Ntouskos received the Engineering Diploma degree from the Schoo
 **Challenge 18 - The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models**
 
 Vasileios Tsironis obtained his five-year Diploma (Intergrated Master) of Rural, Surveying and Geoinformatics Engineering in 2015 and his Postgraduate Master’s Diploma in ‘Mathematical modelling in modern technologies and financial engineering’ in 2017, from the National Technical University of Athens.Since October 2018 he has been a PhD candidate at the same university with a dissertation entitled “Deep Learning techniques for Big EO Data analytics”. Through his academic career and participation in several research and industrial projects, he has developed an extensive expertise in Earth Observation, Big Data analytics and Deep Learning applications with a focus on AI-based solutions development for EO projects, multi-modal and multi-scale EO data modelling, AI-powered EO insights and custom EO-based mapping products derivation. Also, through his career in the private sector, he has developed expert skills in programming, deep learning frameworks exploitation and CI/CD practices for MLOps in a containerized and distributed environment. 
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/xu_shan.jpg" width="160">
+</td>
+<td valign="center">
+
+### Xu Shan 
+**Challenge 19 - Learning global parameterizations of ecosystem processes using hybrid modelling**
+
+Dr. Xu Shan is a researcher at the MPI-BGC who completed a PhD in microwave remote sensing at Delft University of Technology. His expertise focuses on microwave remote sensing, land data assimilation, and machine learning.
 
 </td>
 </tr>
