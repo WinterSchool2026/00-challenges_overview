@@ -26,7 +26,7 @@ All challenges are designed to be completed using **Google Colab**.
 | CH-17 | [Change retrieval in EO data using Vision Language Models (VLMs)](#challenge-17) | [ch17-vlm-change-retrieval](https://github.com/WinterSchool2026/ch17-vlm-change-retrieval) | [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) |
 | CH-18 | [The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models](#challenge-18) | [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch18-multimodal-ard-factory) | [Vasileios Tsironis](#vasileios-tsironis) |
 | CH-19 | [Learning global parameterizations of ecosystem processes using hybrid modelling](#challenge-19) | [ch19-global-ecosystem-hybrid-parameterization](https://github.com/WinterSchool2026/ch19-global-ecosystem-hybrid-parameterization) | [Xu Shan](#xu-shan) |
-| CH-20 | [Can vegetation buffer meteorological extremes events?](#challenge-20) | [ch20-vegetation-buffer-meteo-extremes](https://github.com/WinterSchool2026/ch20-vegetation-buffer-meteo-extremes) | [Alexander Wrinkler](#alexander-wrinkler) |
+| CH-20 | [Can vegetation buffer meteorological extremes events?](#challenge-20) | [ch20-vegetation-buffer-meteo-extremes](https://github.com/WinterSchool2026/ch20-vegetation-buffer-meteo-extremes) | [Alexander Winkler](#alexander-winkler) |
 
 ## Participant/Tutor Support
 Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
@@ -289,7 +289,7 @@ Land carbon and water fluxes shape the feedback between terrestrial ecosystems a
 
 <a id="challenge-20"></a>
 
-Tutor(s): [Alexander Wrinkler](#alexander-wrinkler) </br>
+Tutor(s): [Alexander Winkler](#alexander-winkler) </br>
 Repository: [ch20-vegetation-buffer-meteo-extremes](https://github.com/WinterSchool2026/ch20-vegetation-buffer-meteo-extremes)
 
 **Overview:**
@@ -725,11 +725,11 @@ Dr. Xu Shan is a researcher at the MPI-BGC who completed a PhD in microwave remo
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/alexander_wrinkler.jpg" width="160">
+<img src="assets/alexander_winkler.jpg" width="160">
 </td>
 <td valign="center">
 
-### Alexander Wrinkler
+### Alexander Winkler
 **Challenge 20 - Can vegetation buffer meteorological extremes events?**
 
 Alex is an Earth system scientist at the Max Planck Institute for Biogeochemistry and a core member of the ELLIS Unit Jena. His research focuses on the interactions between the atmosphere and biosphere, particularly their role in climate feedbacks. After earning his PhD in Earth system modeling at the Max-Planck-Institute for Meteorology and the University of Hamburg in 2019, he worked within the CLICCS Cluster of Excellence. Since 2020, he has been part of the ERC Synergy Grant “USMILE” at the Max Planck Institute for Biogeochemistry, where he leads the “Atmosphere-Biosphere Coupling, Climate, and Causality” Research Group.
