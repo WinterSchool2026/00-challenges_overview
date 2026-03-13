@@ -341,7 +341,7 @@ Arianna Olivelli is a chemical oceanographer and Postdoctoral Researcher in the 
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/alexander_winkler_v2.jpg" width="160">
+<img src="assets/alexander_winkler.jpg" width="160">
 </td>
 <td valign="center">
 
