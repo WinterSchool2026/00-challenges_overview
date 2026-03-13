@@ -5,28 +5,25 @@ This repository serves as the central hub for all challenge material of the Wint
 Each challenge is hosted in a dedicated repository within this organization.  
 All challenges are designed to be completed using **Google Colab**.
 
-| # | Challenge Title | Repository | Tutors |
-|---|-----------------|------------|--------|
-| CH-01 | [SeasFire: Deep Learning for Seasonal Wildfire danger Forecasting](#challenge-01) | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos](#nikolas-papadopoulos) |
-| CH-02 | [ML-based downscaling of future climate scenarios](#challenge-02) | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov](#mikhail-ivanov) |
-| CH-03 | [Using machine learning to assess ocean deoxygenation trends in space and time](#challenge-03) | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli](#arianna-olivelli) |
-| CH-04 | [Hybrid modelling of land-atmosphere fluxes](#challenge-04) | [ch04-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch04-hybrid-land-atmosphere-fluxes) | [Reda ElGhawi](#reda-elghawi) &<br>[Sujan Koirala](#sujan-koirala) |
-| CH-05 | [Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models](#challenge-05) | [ch05-ai-esm-emulation-hybrid](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid) | [Said Ouala](#said-ouala) |
-| CH-06 | [Mini Climate Emulation](#challenge-06) | [ch06-mini-climate-emulation](https://github.com/WinterSchool2026/ch06-mini-climate-emulation) | [Nathan Mankovich](#nathan-mankovich) |
-| CH-07 | [Seeing the spread: Visualizing spatiotemporal uncertainty in ensemble data](#challenge-07) | [ch07-spatiotemporal-uncertainty-ensembles](https://github.com/WinterSchool2026/ch07-spatiotemporal-uncertainty-ensembles) | [Fangfei "Fei" Lan](#fangfei-fei-lan) |
-| CH-08 | [Deep Probabilistic Forecasting of Global Temperature Fields](#challenge-08) | [ch08-deep-probabilistic-temperature](https://github.com/WinterSchool2026/ch08-deep-probabilistic-temperature) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
-| CH-09 | [Causal Inference for Extreme Events](#challenge-09) | [ch09-causal-inference-extremes](https://github.com/WinterSchool2026/ch09-causal-inference-extremes) | [Marta Sapena](#marta-sapena) |
-| CH-10 | [Generating 3D video of hurricanes](#challenge-10) | [ch10-3d-hurricane-generation](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation) | [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras) |
-| CH-11 | [Machine Learning for the Attribution of Extreme Events](#challenge-11) | [ch11-ml-attribution-extremes](https://github.com/WinterSchool2026/ch11-ml-attribution-extremes) | [Homer Durand](#homer-durand) |
-| CH-12 | [Lightweight Vision-Language Mixture-of-Experts for Interpretable Multispectral Satellite Representation Learning](#challenge-12) | [ch12-vlm-moe-multispectral](https://github.com/WinterSchool2026/ch12-vlm-moe-multispectral) | [Mohanad Albughdadi](#mohanad-albughdadi) |
-| CH-13 | [Identifiability in hybrid AI models for understanding flood extremes](#challenge-13) | [ch13-hybrid-ai-flood-extremes](https://github.com/WinterSchool2026/ch13-hybrid-ai-flood-extremes) | [Shijie Jiang](#shijie-jiang) |
-| CH-14 | [Multi-modal learning for Impact-based forecasting of Droughts in Eastern Africa](#challenge-14) | [ch14-multimodal-drought-forecasting](https://github.com/WinterSchool2026/ch14-multimodal-drought-forecasting) | [Vitus Benson](#vitus-benson) |
-| CH-15 | [Generative models for Interferometric Synthetic Aperture Radar](#challenge-15) | [ch15-generative-insar](https://github.com/WinterSchool2026/ch15-generative-insar) | [Nikolaos-Ioannis Bountos](#nikolaos-ioannis-bountos) |
-| CH-16 | [Vision-Language Models for EO: Connect imagery and text to enhance EO data interpretation](#challenge-16) | [ch16-vlm-earth-observation](https://github.com/WinterSchool2026/ch16-vlm-earth-observation) | [Angelos Zavras](#angelos-zavras) |
-| CH-17 | [Change retrieval in EO data using Vision Language Models (VLMs)](#challenge-17) | [ch17-vlm-change-retrieval](https://github.com/WinterSchool2026/ch17-vlm-change-retrieval) | [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) |
-| CH-18 | [The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models](#challenge-18) | [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch18-multimodal-ard-factory) | [Vasileios Tsironis](#vasileios-tsironis) |
-| CH-19 | [Learning global parameterizations of ecosystem processes using hybrid modelling](#challenge-19) | [ch19-global-ecosystem-hybrid-parameterization](https://github.com/WinterSchool2026/ch19-global-ecosystem-hybrid-parameterization) | [Xu Shan](#xu-shan) |
-| CH-20 | [Can vegetation buffer meteorological extremes events?](#challenge-20) | [ch20-vegetation-buffer-meteo-extremes](https://github.com/WinterSchool2026/ch20-vegetation-buffer-meteo-extremes) | [Alexander Winkler](#alexander-winkler) |
+| # | Challenge Title | Tutors |
+|---|-----------------|--------|
+| [CH-01](https://github.com/WinterSchool2026/ch01-seasfire) | [SeasFire: Deep Learning for Seasonal Wildfire danger Forecasting](#challenge-01) | [Nikolas Papadopoulos](#nikolas-papadopoulos) |
+| [CH-02](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [ML-based downscaling of future climate scenarios](#challenge-02) | [Mikhail Ivanov](#mikhail-ivanov) |
+| [CH-03](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Using machine learning to assess ocean deoxygenation trends in space and time](#challenge-03) | [Arianna Olivelli](#arianna-olivelli) |
+| [CH-04](https://github.com/WinterSchool2026/ch04-vegetation-buffer-meteo-extremes) | [Can vegetation buffer meteorological extremes events?](#challenge-04) | [Alexander Winkler](#alexander-winkler) |
+| [CH-05](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid) | [Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models](#challenge-05) | [Said Ouala](#said-ouala) |
+| [CH-06](https://github.com/WinterSchool2026/ch06-mini-climate-emulation) | [Mini Climate Emulation](#challenge-06) | [Nathan Mankovich](#nathan-mankovich) |
+| [CH-07](https://github.com/WinterSchool2026/ch07-spatiotemporal-uncertainty-ensembles) | [Seeing the spread: Visualizing spatiotemporal uncertainty in ensemble data](#challenge-07) | [Fangfei "Fei" Lan](#fangfei-fei-lan) |
+| [CH-08](https://github.com/WinterSchool2026/ch08-deep-probabilistic-temperature) | [Deep Probabilistic Forecasting of Global Temperature Fields](#challenge-08) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
+| [CH-09](https://github.com/WinterSchool2026/ch09-causal-inference-extremes) | [Causal Inference for Extreme Events](#challenge-09) | [Marta Sapena](#marta-sapena) |
+| [CH-10](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation) | [Generating 3D video of hurricanes](#challenge-10) | [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras) |
+| [CH-11](https://github.com/WinterSchool2026/ch11-ml-attribution-extremes) | [Machine Learning for the Attribution of Extreme Events](#challenge-11) | [Homer Durand](#homer-durand) |
+| [CH-12](https://github.com/WinterSchool2026/ch12-vlm-moe-multispectral) | [Lightweight Vision-Language Mixture-of-Experts for Interpretable Multispectral Satellite Representation Learning](#challenge-12) | [Mohanad Albughdadi](#mohanad-albughdadi) |
+| [CH-13](https://github.com/WinterSchool2026/ch13-global-ecosystem-hybrid-parameterization) | [Learning global parameterizations of ecosystem processes using hybrid modelling](#challenge-13) | [Xu Shan](#xu-shan) |
+| [CH-14](https://github.com/WinterSchool2026/ch14-multimodal-drought-forecasting) | [Multi-modal learning for Impact-based forecasting of Droughts in Eastern Africa](#challenge-14) | [Vitus Benson](#vitus-benson) |
+| [CH-15](https://github.com/WinterSchool2026/ch15-generative-insar) | [Generative models for Interferometric Synthetic Aperture Radar](#challenge-15) | [Nikolaos-Ioannis Bountos](#nikolaos-ioannis-bountos) |
+| [CH-16](https://github.com/WinterSchool2026/ch16-vlm-earth-observation) | [Vision-Language Models for EO: Connect imagery and text to enhance EO data interpretation](#challenge-16) | [Angelos Zavras](#angelos-zavras) |
+| [CH-17](https://github.com/WinterSchool2026/ch17-hybrid-land-atmosphere-fluxes) | [Hybrid modelling of land-atmosphere fluxes](#challenge-17) | [Reda ElGhawi](#reda-elghawi) &<br>[Sujan Koirala](#sujan-koirala) |
 
 ## Participant/Tutor Support
 Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
@@ -84,22 +81,19 @@ biases model output, and how this information can be used in uncertainty quantif
 (ii) different gridded-product resolutions affect mapped O2 variability and deoxygenation
 trends. This challenge can possibly be extended beyond the duration of the summer school.
 
-### CH-04 – Hybrid modelling of land-atmosphere fluxes
+### CH-04 – Can vegetation buffer meteorological extremes events?
 
 <a id="challenge-04"></a>
 
-Tutor(s): [Reda ElGhawi](#reda-elghawi) & [Sujan Koirala](#sujan-koirala) </br>
-Repository: [ch04-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch04-hybrid-land-atmosphere-fluxes)
+Tutor(s): [Alexander Winkler](#alexander-winkler) </br>
+Repository: [ch04-vegetation-buffer-meteo-extremes](https://github.com/WinterSchool2026/ch04-vegetation-buffer-meteo-extremes)
 
 **Overview:**
-This challenge introduces participants to hybrid modelling approaches for improving land–
-atmosphere fluxes in ICON-ESM. Students will explore stomatal conductance, transpiration,
-and GPP at selected FLUXNET sites using a combination of ICON-JSBACH4 (Fortran)
-simulations and feed-forward neural network (FNN) hybrid model implemented in Python.
-Across three sessions, participants will (1) run and analyse baseline ICON simulations for localized FLUXNET sites, (2) train and evaluate a hybrid model, and (3) implement the pretrained hybrid model in ICON. The challenge is open-ended: groups evaluate whether the
-hybrid approach improves model performance, under which conditions it succeeds or fails,
-and how such ML–physics combinations could influence land-surface modelling especially
-under changing environmental conditions.
+Under climate change, the land will face ever‑more intense extremes—droughts, heatwaves, and beyond. Meanwhile, ecosystems and their functioning are shifting, which poses the a key ongoing research question: **Can plants and ecosystems dampen or amplify these extremes?**
+Our challenge dives into past and future climate‑model simulations with evolving ecosystem states. Using machine‑learning techniques, we’ll extract insights from the model dynamics to uncover how vegetation and ecosystems influence climate extremes.
+
+Goal: **Reveal the pivotal role of plants and ecosystems in modulating extreme climate!**
+
 
 ### CH-05 – Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models
 
@@ -211,15 +205,16 @@ Practical steps:
 
 The goal is to demonstrate how conditional routing and weak language supervision together provide an interpretable, resource-efficient representation model for optical remote sensing.
 
-### CH-13 – Identifiability in hybrid AI models for understanding flood extremes
+### CH-13 – Learning global parameterizations of ecosystem processes using hybrid modelling
 
 <a id="challenge-13"></a>
 
-Tutor(s): [Shijie Jiang](#shijie-jiang) </br>
-Repository: [ch13-hybrid-ai-flood-extremes](https://github.com/WinterSchool2026/ch13-hybrid-ai-flood-extremes)
+Tutor(s): [Xu Shan](#xu-shan) </br>
+Repository: [ch13-global-ecosystem-hybrid-parameterization](https://github.com/WinterSchool2026/ch13-global-ecosystem-hybrid-parameterization)
 
 **Overview:**
-The challenge examines identifiability issues in hybrid models that link extreme rainfall to flood response across catchments. This problem is central yet often overlooked, and it sets a practical limit on how reliable and interpretable hybrid models can be. Using a concrete flood case study, participants will investigate when parameterizations become weakly identified, how this affects stability and scientific value, and, most importantly, which constraints or model structures can address these identifiability issues in practice.
+Land carbon and water fluxes shape the feedback between terrestrial ecosystems and climate, yet traditional land models remain hampered by structural error and equifinality. Hybrid models—embedding machine learning (ML) modules inside mechanistic frameworks—address several of these gaps by combining physical consistency with data driven flexibility. So far, pioneering work linking process knowledge and ML has already demonstrated superior realism across scales, while underlining the need for richer observations to resolve coupled C–H₂O dynamics. This is demonstrated by the limitation in learning the spatial and temporal controls of parameters that modulate the responses of ecosystems to weather and climate variability.The challenge lies in the need for intensive and long-term observations that underpin robust and comprehensive representations of ecosystem functioning. Although hundreds of locations with such observations exist worldwide, we still observe significant limitations in parameter generalization, consequently limiting our ability to predict ecosystem function. The challenge here is to overcome the previous generalizability in predicting carbon and water fluxes using a hybrid modelling approach. Based on a global open dataset and the SINDBAD hybrid modelling framework, the project will be open to a wide range of approaches towards generalization, from different ML architectures to the ingestion of foundation models.
+
 
 ### CH-14 – Multi-modal learning for Impact-based forecasting of Droughts in Eastern Africa
 
@@ -251,52 +246,22 @@ Repository: [ch16-vlm-earth-observation](https://github.com/WinterSchool2026/ch1
 **Overview:**
 The Earth’s orbit is teeming with a growing constellation of Earth Observation (EO) satellites, continuously producing an unprecedented volume of diverse and complex information about our planet. In this data-rich landscape, language provides a natural interface to interact with and analyze these vast RS archives. The “Vision-Language Models for EO” Challenge invites participants to use pre-trained VLMs to interact with EO data through natural language. Possible directions include image captioning, visual question answering, EO data retrieval, or text-based image search.
 
-### CH-17 – Change retrieval in EO data using Vision Language Models (VLMs)
+### CH-17 – Hybrid modelling of land-atmosphere fluxes
 
 <a id="challenge-17"></a>
 
-Tutor(s): [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) </br>
-Repository: [ch17-vlm-change-retrieval](https://github.com/WinterSchool2026/ch17-vlm-change-retrieval)
+Tutor(s): [Reda ElGhawi](#reda-elghawi) & [Sujan Koirala](#sujan-koirala) </br>
+Repository: [ch17-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch17-hybrid-land-atmosphere-fluxes)
 
 **Overview:**
-Tasks:
-- Generate and curate change captions using VLMs
-- Evaluate change retrieval on EO data via text-to-image retrieval
-- Localization of changes in EO data
-
-### CH-18 – The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models
-
-<a id="challenge-18"></a>
-
-Tutor(s): [Vasileios Tsironis](#vasileios-tsironis) </br>
-Repository: [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch18-multimodal-ard-factory)
-
-**Overview:**
-This challenge tackles the "Data-Centric AI" bottleneck in Earth Observation: transforming heterogeneous satellite streams into Foundation-Model-ready data cubes. Participants will design an end-to-end pipeline to harmonize Sentinel-1 (SAR) and Sentinel-2/Landsat-9 (Optical) data. The work involves navigating physical corrections (RTC, atmospheric/spectral alignment) and solving dense co-registration puzzles using advanced methods like optical flow (e.g., GeFolki). Finally, groups will "prove" the quality of their ARD by analysing its impact on the embedding space of an EO Foundation Model, investigating how data-engineering choices directly influence AI reasoning for climate and hazard applications.
-
-
-### CH-19 – Learning global parameterizations of ecosystem processes using hybrid modelling
-
-<a id="challenge-19"></a>
-
-Tutor(s): [Xu Shan](#xu-shan) </br>
-Repository: [ch19-global-ecosystem-hybrid-parameterization](https://github.com/WinterSchool2026/ch19-global-ecosystem-hybrid-parameterization)
-
-**Overview:**
-Land carbon and water fluxes shape the feedback between terrestrial ecosystems and climate, yet traditional land models remain hampered by structural error and equifinality. Hybrid models—embedding machine learning (ML) modules inside mechanistic frameworks—address several of these gaps by combining physical consistency with data driven flexibility. So far, pioneering work linking process knowledge and ML has already demonstrated superior realism across scales, while underlining the need for richer observations to resolve coupled C–H₂O dynamics. This is demonstrated by the limitation in learning the spatial and temporal controls of parameters that modulate the responses of ecosystems to weather and climate variability.The challenge lies in the need for intensive and long-term observations that underpin robust and comprehensive representations of ecosystem functioning. Although hundreds of locations with such observations exist worldwide, we still observe significant limitations in parameter generalization, consequently limiting our ability to predict ecosystem function. The challenge here is to overcome the previous generalizability in predicting carbon and water fluxes using a hybrid modelling approach. Based on a global open dataset and the SINDBAD hybrid modelling framework, the project will be open to a wide range of approaches towards generalization, from different ML architectures to the ingestion of foundation models.
-
-### CH-20 – Can vegetation buffer meteorological extremes events?
-
-<a id="challenge-20"></a>
-
-Tutor(s): [Alexander Winkler](#alexander-winkler) </br>
-Repository: [ch20-vegetation-buffer-meteo-extremes](https://github.com/WinterSchool2026/ch20-vegetation-buffer-meteo-extremes)
-
-**Overview:**
-Under climate change, the land will face ever‑more intense extremes—droughts, heatwaves, and beyond. Meanwhile, ecosystems and their functioning are shifting, which poses the a key ongoing research question: **Can plants and ecosystems dampen or amplify these extremes?**
-Our challenge dives into past and future climate‑model simulations with evolving ecosystem states. Using machine‑learning techniques, we’ll extract insights from the model dynamics to uncover how vegetation and ecosystems influence climate extremes.
-
-Goal: **Reveal the pivotal role of plants and ecosystems in modulating extreme climate!**
+This challenge introduces participants to hybrid modelling approaches for improving land–
+atmosphere fluxes in ICON-ESM. Students will explore stomatal conductance, transpiration,
+and GPP at selected FLUXNET sites using a combination of ICON-JSBACH4 (Fortran)
+simulations and feed-forward neural network (FNN) hybrid model implemented in Python.
+Across three sessions, participants will (1) run and analyse baseline ICON simulations for localized FLUXNET sites, (2) train and evaluate a hybrid model, and (3) implement the pretrained hybrid model in ICON. The challenge is open-ended: groups evaluate whether the
+hybrid approach improves model performance, under which conditions it succeeds or fails,
+and how such ML–physics combinations could influence land-surface modelling especially
+under changing environmental conditions.
 
 ## Meet the tutors
 
@@ -376,38 +341,16 @@ Arianna Olivelli is a chemical oceanographer and Postdoctoral Researcher in the 
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/reda_elghawi.jpg" width="160">
+<img src="assets/alexander_winkler_v2.jpg" width="160">
 </td>
 <td valign="center">
 
-### Reda ElGhawi  
-**Challenge 04 – Hybrid modelling of land-atmosphere fluxes**
+### Alexander Winkler
+**Challenge 04 - Can vegetation buffer meteorological extremes events?**
 
-Reda El Ghawi is a post-doc working on land–atmosphere interactions within the ICON-ESM framework,
-focusing on improving the representation of water and carbon cycle processes from local to
-global scales. Her work covers stomatal conductance, assimilation regulators, transpiration,
-GPP, vegetation dynamics, carbon allocation, disturbances, and forest ageing and regrowth.
-She uses a combination of perturbed parameter ensembles, hybrid modelling approaches, and
-machine-learning parametrizations to diagnose structural model biases and enhance key
-land-surface processes, particularly under changing environmental conditions.
+Alexander Winkler is an Earth system scientist at the Max Planck Institute for Biogeochemistry and a core member of the ELLIS Unit Jena. His research focuses on the interactions between the atmosphere and biosphere, particularly their role in climate feedbacks. After earning his PhD in Earth system modeling, he work in the ERC Synergy Grant “USMILE” at the Max Planck Institute for Biogeochemistry, where he leads the “Atmosphere-Biosphere Coupling, Climate, and Causality” Research Group. In early 2026, he kick-started his ERC Starting Grant "PostPeak" on machine-learning enhanced Earth system modeling going beyond peak atmospheric CO2.
 
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="180" valign="center">
-<img src="assets/sujan_koirala.jpg" width="160">
-</td>
-<td valign="center">
-
-### Sujan Koirala  
-**Challenge 04 – Hybrid modelling of land-atmosphere fluxes**
-
-Bio coming soon.
+Alex uses models—from simple frameworks to advanced Earth system models—and machine learning to explore CO2, water, and energy exchanges between land and atmosphere. His work emphasizes causal inference and hybrid models, combining data-driven and mechanistic approaches to advance process understanding.
 
 </td>
 </tr>
@@ -568,14 +511,14 @@ Mohanad Albughdadi (https://albughdadim.github.io/) holds a PhD in Applied Mathe
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/shijie_jiang.jpg" width="160">
+<img src="assets/xu_shan.jpg" width="160">
 </td>
 <td valign="center">
 
-### Shijie Jiang  
-**Challenge 13 - Identifiability in hybrid AI models for understanding flood extremes**
+### Xu Shan 
+**Challenge 13 - Learning global parameterizations of ecosystem processes using hybrid modelling**
 
-Shijie Jiang is a Project Group Leader in Machine Learning for Hydrological and Earth Systems. His research focuses on coupled water, energy, and carbon dynamics in hydrological, ecological, and climate systems, with an emphasis on integrating data and domain knowledge with hybrid and explainable machine learning.  
+Dr. Xu Shan is a researcher at the MPI-BGC who completed a PhD in microwave remote sensing at Delft University of Technology. His expertise focuses on microwave remote sensing, land data assimilation, and machine learning.
 
 </td>
 </tr>
@@ -670,14 +613,20 @@ Applications and Remote Sensing (IAASARS) of the National Observatory of Athens.
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/makis_ntouskos.jpg" width="160">
+<img src="assets/reda_elghawi.jpg" width="160">
 </td>
 <td valign="center">
 
-### Valsamis (Makis) Ntouskos  
-**Challenge 17 - Change retrieval in EO data using Vision Language Models (VLMs)**
+### Reda ElGhawi  
+**Challenge 17 – Hybrid modelling of land-atmosphere fluxes**
 
-Valsamis (Makis) Ntouskos received the Engineering Diploma degree from the School of Rural and Surveying Engineering, National Technical University of Athens (NTUA), Greece, the B.Sc. degree in electronics engineering and the M.S.E. degree in artificial intelligence and robotics from Sapienza University of Rome, Sapienza, Italy, in 2010 and 2012, respectively, and the Ph.D. degree (Hons.) in computer engineering from Sapienza University, in 2016, working on ‘‘Inverse Problems Theory in Shape and Action Modeling.’’ From 2017 to 2020, he was a Researcher with the Department of Computer, Control, and Management Engineering, Sapienza, and a Research Fellow with the Remote Sensing Laboratory, NTUA, in 2020. Currently, he is an Associate Professor with Universitas Mercatorum, Italy. He has several publications in top-tier international conferences and journals in the fields of machine learning and computer vision. He serves as a program committee member and a reviewer for top-rank international conferences and journals in his field.
+Reda El Ghawi is a post-doc working on land–atmosphere interactions within the ICON-ESM framework,
+focusing on improving the representation of water and carbon cycle processes from local to
+global scales. Her work covers stomatal conductance, assimilation regulators, transpiration,
+GPP, vegetation dynamics, carbon allocation, disturbances, and forest ageing and regrowth.
+She uses a combination of perturbed parameter ensembles, hybrid modelling approaches, and
+machine-learning parametrizations to diagnose structural model biases and enhance key
+land-surface processes, particularly under changing environmental conditions.
 
 </td>
 </tr>
@@ -688,53 +637,14 @@ Valsamis (Makis) Ntouskos received the Engineering Diploma degree from the Schoo
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/vasileios_tsironis.jpg" width="160">
+<img src="assets/sujan_koirala.jpg" width="160">
 </td>
 <td valign="center">
 
-### Vasileios Tsironis  
-**Challenge 18 - The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models**
+### Sujan Koirala  
+**Challenge 17 – Hybrid modelling of land-atmosphere fluxes**
 
-Vasileios Tsironis obtained his five-year Diploma (Intergrated Master) of Rural, Surveying and Geoinformatics Engineering in 2015 and his Postgraduate Master’s Diploma in ‘Mathematical modelling in modern technologies and financial engineering’ in 2017, from the National Technical University of Athens.Since October 2018 he has been a PhD candidate at the same university with a dissertation entitled “Deep Learning techniques for Big EO Data analytics”. Through his academic career and participation in several research and industrial projects, he has developed an extensive expertise in Earth Observation, Big Data analytics and Deep Learning applications with a focus on AI-based solutions development for EO projects, multi-modal and multi-scale EO data modelling, AI-powered EO insights and custom EO-based mapping products derivation. Also, through his career in the private sector, he has developed expert skills in programming, deep learning frameworks exploitation and CI/CD practices for MLOps in a containerized and distributed environment. 
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="180" valign="center">
-<img src="assets/xu_shan.jpg" width="160">
-</td>
-<td valign="center">
-
-### Xu Shan 
-**Challenge 19 - Learning global parameterizations of ecosystem processes using hybrid modelling**
-
-Dr. Xu Shan is a researcher at the MPI-BGC who completed a PhD in microwave remote sensing at Delft University of Technology. His expertise focuses on microwave remote sensing, land data assimilation, and machine learning.
-
-</td>
-</tr>
-</table>
-
-
----
-
-<table>
-<tr>
-<td width="180" valign="center">
-<img src="assets/alexander_winkler_v2.jpg" width="160">
-</td>
-<td valign="center">
-
-### Alexander Winkler
-**Challenge 20 - Can vegetation buffer meteorological extremes events?**
-
-Alexander Winkler is an Earth system scientist at the Max Planck Institute for Biogeochemistry and a core member of the ELLIS Unit Jena. His research focuses on the interactions between the atmosphere and biosphere, particularly their role in climate feedbacks. After earning his PhD in Earth system modeling, he work in the ERC Synergy Grant “USMILE” at the Max Planck Institute for Biogeochemistry, where he leads the “Atmosphere-Biosphere Coupling, Climate, and Causality” Research Group. In early 2026, he kick-started his ERC Starting Grant "PostPeak" on machine-learning enhanced Earth system modeling going beyond peak atmospheric CO2.
-
-Alex uses models—from simple frameworks to advanced Earth system models—and machine learning to explore CO2, water, and energy exchanges between land and atmosphere. His work emphasizes causal inference and hybrid models, combining data-driven and mechanistic approaches to advance process understanding.
+Bio coming soon.
 
 </td>
 </tr>
